@@ -1,6 +1,6 @@
 # Part 2 프로세스 관리
 
-## Chapter 4 CPU 스케줄링
+## Chapter 5 프로세스 동기화
 
 ### 연습문제
 
